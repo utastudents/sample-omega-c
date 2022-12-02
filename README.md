@@ -1,6 +1,8 @@
 # sample-omega-c
 Sample C program 
 
+This project has been tested on omegabeta.uta.edu
+
 # How to use this project
 
 ```
